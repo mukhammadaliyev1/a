@@ -3,6 +3,9 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+
+
 header {
   width: 1280px;
   height: 1100px;
@@ -35,7 +38,9 @@ header {
   width: 1058px;
   height: 60px;
   border-radius: 47px;
+  font-family: "Inter";
   background-color: #1b152b;
+  
   
 }
 
